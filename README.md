@@ -104,4 +104,11 @@ Confirme que todas as peças estão firmes.
 * Altura: 1.09 cm
 * Largura: 4.9 cm
 
+---------
+**Autores:**
+* Davi Passanha de Sousa Guerra - RM551605
+* Cauã Gonçalves de Jesus - RM97648
+* Luan Silveira Macea - RM98290
+* Rui Amorim Siqueira - RM98436
+* Luigi Ferrara Sinno -RM98047
 

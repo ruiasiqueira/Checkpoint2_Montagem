@@ -12,7 +12,6 @@ Posicione as engrenagens sobre a base.
 Certifique-se de que estão corretamente encaixadas.
 <img width="940" height="705" alt="image" src="https://github.com/user-attachments/assets/d007decc-dc1b-4d19-aa17-5928220dc12a" />
 <img width="739" height="986" alt="image" src="https://github.com/user-attachments/assets/ec95b944-53b9-4a1d-b6f0-89eff8d18b83" />
-
 **Observação:**
 As engrenagens precisam estar em posições específicas para que o mecanismo funcione corretamente.
 
@@ -43,7 +42,7 @@ Cada peça possui uma posição específica para encaixe perfeito.
 🔩 6. Instalação da Parte Superior
 Pegue a parte superior da peça.
 Posicione no parafuso superior da base montada.
-Encaixe corretamente até ficar firme.
+Encaixe corretamente.
 <img width="940" height="705" alt="image" src="https://github.com/user-attachments/assets/2842a4df-d988-40e8-958a-81fe44d46168" />
 <img width="398" height="531" alt="image" src="https://github.com/user-attachments/assets/e0aad794-08fe-4139-9633-2600da246ca6" />
 <img width="542" height="407" alt="image" src="https://github.com/user-attachments/assets/d47976f2-7891-4d47-bb09-bddcece22961" />
